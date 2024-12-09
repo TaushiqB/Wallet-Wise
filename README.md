@@ -1,7 +1,7 @@
-# Expense Tracker
+# Wallet-Wise
 
 ## Overview
-Expense Tracker is a web application designed to help users manage their expenses efficiently. The application is built using a Spring Boot backend and an Angular frontend. It leverages AWS services for cloud deployment, with the frontend hosted on S3 and the backend on Elastic Beanstalk. The application uses Amazon RDS for database management.
+Wallet Wise ( Expense Tracker ) is a web application designed to help users manage their expenses efficiently. The application is built using a Spring Boot backend and an Angular frontend. It leverages AWS services for cloud deployment, with the frontend hosted on S3 and the backend on Elastic Beanstalk. The application uses Amazon RDS for database management.
 
 ## Features
 - Add, edit, and delete expenses
