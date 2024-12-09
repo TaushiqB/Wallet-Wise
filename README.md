@@ -29,12 +29,4 @@ https://github.com/user-attachments/assets/1ecb5e66-ac08-43a6-8556-3c1e7c78b28f
 - Java Development Kit (JDK) installed
 - AWS account
 
-### Installation
 
-#### Fullstack
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sivashankar-selvan/Expense-Tracker.git
-
-#### Contact
-For any inquiries or feedback, please contact sivashankarselvan@gmail.com.
